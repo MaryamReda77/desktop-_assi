@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="desktop_assiEntities">
+    <EntitySetMapping Name="Userprofileees">
+      <EntityTypeMapping TypeName="Model.Userprofileee">
+        <MappingFragment StoreEntitySet="Userprofileee">
+          <ScalarProperty Name="Usersp_Name" ColumnName="Usersp_Name" />
+          <ScalarProperty Name="Usersp_Age" ColumnName="Usersp_Age" />
+          <ScalarProperty Name="Usersp_Gender" ColumnName="Usersp_Gender" />
+          <ScalarProperty Name="Usersp_phone_number" ColumnName="Usersp_phone_number" />
+          <ScalarProperty Name="Usersp_City" ColumnName="Usersp_City" />
+          <ScalarProperty Name="Usersp_Pass" ColumnName="Usersp_Pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

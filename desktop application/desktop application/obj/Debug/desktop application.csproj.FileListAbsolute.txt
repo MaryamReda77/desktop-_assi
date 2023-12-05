@@ -1,0 +1,34 @@
+C:\Users\IT\source\repos\desktop application\desktop application\bin\Debug\desktop application.exe.config
+C:\Users\IT\source\repos\desktop application\desktop application\bin\Debug\desktop application.exe
+C:\Users\IT\source\repos\desktop application\desktop application\bin\Debug\desktop application.pdb
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application.csproj.AssemblyReference.cache
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\MainWindow.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\sign up.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\App.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application_MarkupCompile.cache
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application_MarkupCompile.lref
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\MainWindow.baml
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\sign up.baml
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application.g.resources
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop_application.Properties.Resources.resources
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application.csproj.GenerateResource.cache
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application.csproj.CoreCompileInputs.cache
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application.exe
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application.pdb
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\forget pass.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\sign in.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\user profile.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application_Content.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\bin\Debug\EntityFramework.dll
+C:\Users\IT\source\repos\desktop application\desktop application\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\source\repos\desktop application\desktop application\bin\Debug\EntityFramework.xml
+C:\Users\IT\source\repos\desktop application\desktop application\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\forget pass.baml
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\sign in.baml
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\user profile.baml
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\desktop application.csproj.CopyComplete
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\sign i.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\delete phonenumber.g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\search .g.cs
+C:\Users\IT\source\repos\desktop application\desktop application\obj\Debug\navigate .g.cs
